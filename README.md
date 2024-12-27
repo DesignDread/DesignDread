@@ -40,18 +40,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-
-
-
-
-<div align="left" >
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=anubhavgarg&show_icons=true&theme=radical" alt="Anubhav GARG's GitHub Stats" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=anubhavgarg&theme=radical" alt="Anubhav GARG's GitHub Streak" />
-</div>
-
-<div align="right">
   
 </div>
 
