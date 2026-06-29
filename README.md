@@ -4,12 +4,12 @@ Full Stack Developer • Open Source Contributor • MERN Enthusiast
 </h3>
 
 <p align="center">
-  <a href="https://github.com/anubhavgarg">
-    <img src="https://komarev.com/ghpvc/?username=anubhavgarg&label=Profile+Views&color=blue&style=flat-square"/>
+  <a href="https://github.com/DesignDread">
+    <img src="https://komarev.com/ghpvc/?username=DesignDread&label=Profile+Views&color=blue&style=flat-square"/>
   </a>
 
-  <a href="https://github.com/anubhavgarg?tab=followers">
-    <img src="https://img.shields.io/github/followers/anubhavgarg?label=Followers&style=flat-square"/>
+  <a href="https://github.com/DesignDread?tab=followers">
+    <img src="https://img.shields.io/github/followers/DesignDread?label=Followers&style=flat-square"/>
   </a>
 
   <a href="mailto:anubhav8392@gmail.com">
@@ -66,15 +66,15 @@ Full Stack Developer • Open Source Contributor • MERN Enthusiast
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anubhavgarg&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DesignDread&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavgarg&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesignDread&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=anubhavgarg&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=DesignDread&theme=github-dark&hide_border=true&timezone=Asia/Kolkata"/>
 
 </p>
 
@@ -84,7 +84,7 @@ Full Stack Developer • Open Source Contributor • MERN Enthusiast
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anubhavgarg&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DesignDread&theme=algolia&no-frame=true&margin-w=15"/>
 
 </p>
 
@@ -94,7 +94,7 @@ Full Stack Developer • Open Source Contributor • MERN Enthusiast
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anubhavgarg&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DesignDread&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -112,7 +112,7 @@ Full Stack Developer • Open Source Contributor • MERN Enthusiast
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/anubhavgarg">
+<a href="https://github.com/DesignDread">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
