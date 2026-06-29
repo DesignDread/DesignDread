@@ -80,16 +80,6 @@ Full Stack Developer • Open Source Contributor • MERN Enthusiast
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DesignDread&theme=algolia&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
 ## 📈 Contribution Graph
 
 <p align="center">
