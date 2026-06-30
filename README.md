@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anubhav Garg</h1>
 <h3 align="center">
-Full Stack Developer • Open Source Contributor • MERN Enthusiast
+Full Stack Developer • Freelancing • MERN Enthusiast
 </h3>
 
 <p align="center">
