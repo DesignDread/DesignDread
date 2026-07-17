@@ -64,12 +64,16 @@ Full Stack Developer • Freelancing • MERN Enthusiast
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DesignDread&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesignDread&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DesignDread&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DesignDread&layout=compact&theme=github_dark&hide_border=true"/>
-
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DesignDread&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=DesignDread&theme=github-dark&hide_border=true&timezone=Asia/Kolkata" />
 </p>
 
 <p align="center">
