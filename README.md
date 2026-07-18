@@ -64,7 +64,6 @@ Full Stack Developer • Freelancing • MERN Enthusiast
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=DesignDread&show_icons=true&theme=github_dark&hide_border=true" />
