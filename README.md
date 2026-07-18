@@ -73,8 +73,6 @@ Full Stack Developer • Freelancing • MERN Enthusiast
 
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DesignDread&theme=github_dark" />
-  <img src="https://streak-stats.demolab.com?user=DesignDread&theme=github-dark&hide_border=true&timezone=Asia/Kolkata" />
-</p>
 
 <p align="center">
 
